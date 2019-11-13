@@ -15,6 +15,7 @@ const AppContainer = createAppContainer(AppNavigator);
 export default class App extends React.Component {
 
     // test commit
+    // test commit2
 
     render() {
         return (
